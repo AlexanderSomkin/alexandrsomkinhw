@@ -1,0 +1,6 @@
+# Игнорировать все йалы с раширением .рус
+*.рус
+
+# Ignore diretories
+# Both the directory itself and its contents will be ignored.
+cache/

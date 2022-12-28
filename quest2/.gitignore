@@ -1,7 +1,0 @@
-# Игнорировать все файлы с расширением .pyc
-*.pyc
-
-# Ignoring directories
-# Both the directory itself and its contents will be ignored.
-cache/
-
